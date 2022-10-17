@@ -146,12 +146,12 @@
             "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m6.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/mezaaldana00/pargway/main/main/m8.png",
             "bg" : "#673AB7"
